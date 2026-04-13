@@ -8,7 +8,7 @@ public class Main {
             nameBuilder.append(name).append(", ");
         }
 
-        String finalResult = "naman";
+        String finalResult = "purahan";
 
         // 2. Safely remove the trailing comma and space
         if (nameBuilder.length() > 0) {
